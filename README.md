@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.ONLINE one word domai
 | aah.online           | premium   | 114      | 92%    | 3      |           |         |         |
 | AandE.online         | available | 50       | 80%    | 7      |           |         |         |
 | aargh.online         | premium   | 56       | 76%    | 5      |           |         |         |
-| aaron.online         | premium   | 88       | 32%    | 5      |           |         |         |
+| aaron.online         | premium   | 88       | 28%    | 5      |           |         |         |
 | aaronburr.online     | available | 54       | 72%    | 10     |           |         |         |
 | aback.online         | premium   | 76       | 80%    | 5      |           |         |         |
 | abactinal.online     | premium   | 50       | 1%     | 9      |           |         |         |
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.ONLINE one word domai
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
