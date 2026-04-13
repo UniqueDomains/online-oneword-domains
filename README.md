@@ -74,7 +74,7 @@ print(df.head())
 | tough.online           | resell    | $3,795    | $46.99        | 122            | 14     | 5      | Xin Net Technology Corporation                      |
 | couture.online         | premium   | $312.50   | $1,250        | 71             | 96     | 7      | name.com                                            |
 | ABCsoil.online         | available | $27.98    | —             | 56             | 72     | 8      | namecheap                                           |
-| corrupt.online         | resell    | $1,725    | $46.99        | 80             | 14     | 7      | Dynadot Inc                                         |
+| corrupt.online         | resell    | $1,725    | $46.99        | 80             | 13     | 7      | Dynadot Inc                                         |
 | transmission.online    | premium   | $312.50   | $1,250        | —              | 96     | 12     | name.com                                            |
 | accountday.online      | available | $2.99     | $41.99        | 56             | 72     | 11     | name.com                                            |
 | convenient.online      | resell    | $3,795    | $46.99        | 78             | 10     | 10     | Xin Net Technology Corporation                      |
