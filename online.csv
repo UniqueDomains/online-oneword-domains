@@ -131,7 +131,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 494b7c60-3bf4-41e0-8378-bf13f4f5d0fd,difficulties.online,available,2.99,,70,3,12,name.com,,
 49502203-188c-4623-ab75-73193b99ee88,determination.online,available,2.99,,70,9,13,name.com,,
 4a202994-e90e-4159-92aa-a75d3e1e43d4,gotothewashroom.online,available,2.99,,56,1,18,name.com,,
-4a21654b-9db2-4973-a821-9b01228d9172,Spartacus.online,resell,,,72,11,9,"GoDaddy.com, LLC",12/02/2026 07:45,12/02/2027 23:59
+4a21654b-9db2-4973-a821-9b01228d9172,Spartacus.online,resell,,,72,12,9,"GoDaddy.com, LLC",12/02/2026 07:45,12/02/2027 23:59
 4a574f46-8afb-48e3-9984-b05b31fc0078,Xrays.online,available,34.98,,52,5,6,namecheap,,
 4d3cbfa7-848e-4b2c-ba0a-e9ea70ab96c8,provide.online,resell,,,76,14,7,"Chengdu West Dimension Digital Technology Co., Ltd.",11/11/2016 08:36,11/11/2026 23:59
 4d82617c-ab7e-43cf-bf0c-6e69094cea26,errors.online,premium,78.12,,46,11,6,name.com,,
@@ -213,6 +213,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6e219c94-70a1-4676-b06d-386830ec25ec,chiefofstaff.online,available,2.99,,60,9,14,name.com,,
 6ea8c558-d439-4963-9990-90b84a31f51e,scratches.online,available,2.99,,60,4,9,name.com,,
 6eb86a95-b628-44fc-b417-a7e9251d0bd3,goplaces.online,available,2.99,,74,5,9,name.com,,
+6ec5340e-844d-4a3b-9d37-559fc97a2374,anappleaday.online,premium,,,52,5,14,,,
 6f038caf-c2a7-43df-b82a-7304833e73b5,cuddles.online,resell,,,71,10,7,"GoDaddy.com, LLC",14/11/2025 13:55,14/11/2026 23:59
 6f1a62b8-02bc-426e-9416-55808cc79bf0,bricks.online,premium,156.25,,56,28,6,name.com,,
 6fd6bd62-c630-4854-b74a-41fde6c4b8de,told.online,resell,,,52,13,4,"Sav.com, LLC - 48",29/06/2025 01:09,29/06/2026 23:59
@@ -407,7 +408,7 @@ dfd608dc-eded-46f1-9ced-9b73213a1eb9,guns.online,premium,1562.5,,68,22,4,name.co
 dffda938-d9f3-47f8-ada0-6948e2c8c28b,olive.online,premium,,,66,36,5,,,
 e0aa6953-8e93-48bf-bc87-658ff5a0a1e0,designers.online,premium,156.25,,72,15,9,name.com,,
 e2c463d4-54ff-4eb5-9086-ceac91d55396,gonowhere.online,available,2.99,,62,2,10,name.com,,
-e2f13911-9116-4fd3-8e15-753aa27e81f2,speedoflight.online,available,2.99,,70,6,14,name.com,,
+e2f13911-9116-4fd3-8e15-753aa27e81f2,speedoflight.online,available,2.99,,70,7,14,name.com,,
 e2fa441d-d14c-471f-9d53-e7bee69bb167,fails.online,premium,156.25,,46,7,5,name.com,,
 e33f6c12-0afb-4a8e-a891-689d43bceb78,razorburn.online,available,2.99,,60,1,10,name.com,,
 e34c6c0f-cffd-4983-b8b4-ee635b4182f9,highsociety.online,available,2.99,,73,8,12,name.com,,
@@ -998,4 +999,3 @@ b63991de-f7c0-4c9a-aaa4-09985c335f5b,classicize.online,premium,,,56,72,10,,,
 54f74c15-e471-45e8-815e-083ef4527208,essayquestion.online,premium,,,68,1,14,,,
 f246ff51-1624-4e04-a2cb-df3379f3abe9,infinitely.online,premium,,,59,80,10,,,
 cd753cda-2165-4803-ab78-920056738f2d,normalizedyield.online,premium,,,62,72,16,,,
-7d3f90e1-438b-409c-82c2-a99123a8d968,doubleorquits.online,premium,,,56,72,15,,,
