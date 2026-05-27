@@ -75,7 +75,7 @@ print(df.head())
 | farmers.online       | premium   | $156.25   | —             | 54             | 59     | 7      | name.com                                            |
 | SantaClara.online    | available | $34.98    | —             | 75             | 9      | 11     | namecheap                                           |
 | temperance.online    | resell    | —         | —             | 52             | 84     | 10     | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
-| etc.online           | premium   | $781.25   | —             | 58             | 34     | 3      | name.com                                            |
+| etc.online           | premium   | $781.25   | —             | 58             | 32     | 3      | name.com                                            |
 | determination.online | available | $2.99     | —             | 70             | 9      | 13     | name.com                                            |
 | datingcoach.online   | resell    | —         | —             | 62             | 76     | 12     | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
 | bricks.online        | premium   | $156.25   | —             | 56             | 26     | 6      | name.com                                            |
