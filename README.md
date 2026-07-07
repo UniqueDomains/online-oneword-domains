@@ -1,10 +1,10 @@
-# Available .ONLINE One-Word Domains (67,729)
+# Available .ONLINE One-Word Domains (67,731)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-67%2C729%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-67%2C731%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .online one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **67,729 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **67,731 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 67,729 domains · **Median ask:** $2,054.51 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 67,731 domains · **Median ask:** $908.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/online`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/online`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ONLINE one-word domai
 
 ### Files
 
-- `online.csv` — public CSV extract (1,000 rows)
-- `online.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `online.csv`, public CSV extract (1,000 rows)
+- `online.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| MickeyMouse.online   | available | $34.98    | —             | 86             | 11     | 12     | namecheap                                           |
-| cloud.online         | resell    | $718,750  | $46.99        | 70             | 59     | 5      | Namify Domains Inc                                  |
-| abbey.online         | premium   | $312.50   | $1,250        | 56             | 80     | 5      | name.com                                            |
-| scars.online         | available | $2.99     | —             | 42             | 10     | 5      | name.com                                            |
-| nowwhat.online       | resell    | $2.99     | —             | 58             | 15     | 8      | GoDaddy.com, LLC                                    |
-| abdomen.online       | premium   | $156.25   | $625          | 66             | 76     | 7      | name.com                                            |
-| thinkabout.online    | available | $2.99     | —             | 77             | 9      | 11     | name.com                                            |
-| boldly.online        | resell    | —         | —             | 63             | 88     | 6      | Namecheap                                           |
-| farmers.online       | premium   | $156.25   | —             | 54             | 59     | 7      | name.com                                            |
-| SantaClara.online    | available | $34.98    | —             | 75             | 9      | 11     | namecheap                                           |
-| temperance.online    | resell    | —         | —             | 52             | 84     | 10     | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
-| etc.online           | premium   | $781.25   | —             | 58             | 32     | 3      | name.com                                            |
-| determination.online | available | $2.99     | —             | 70             | 9      | 13     | name.com                                            |
-| datingcoach.online   | resell    | —         | —             | 62             | 76     | 12     | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
-| bricks.online        | premium   | $156.25   | —             | 56             | 26     | 6      | name.com                                            |
-| cometogether.online  | available | $2.99     | —             | 70             | 9      | 13     | name.com                                            |
-| stripshow.online     | resell    | —         | —             | 52             | 76     | 10     | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
-| WhiteHouse.online    | premium   | $175      | $700          | 66             | 25     | 11     | namecheap                                           |
-| WorldExpo.online     | available | $34.98    | —             | 69             | 9      | 10     | namecheap                                           |
-| donuts.online        | resell    | —         | —             | 54             | 62     | 6      | Squarespace Domains II LLC                          |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| lying.online   | available | $2.99     | —             | high           | low    | 5      | name.com                                            |
+| cloud.online   | resell    | $718,750  | $46.99        | high           | medium | 5      | Namify Domains Inc                                  |
+| fan.online     | premium   | $1,562.50 | —             | high           | low    | 3      | name.com                                            |
+| goape.online   | available | $0.98     | $34.98        | high           | low    | 6      | namecheap                                           |
+| cited.online   | resell    | —         | —             | medium         | high   | 5      | Hosting Concepts B.V. d/b/a Registrar.eu            |
+| fee.online     | premium   | $781.25   | —             | high           | low    | 3      | name.com                                            |
+| gelpen.online  | available | $2.99     | $38.50        | high           | low    | 7      | namesilo                                            |
+| macro.online   | resell    | —         | —             | high           | low    | 5      | Squarespace Domains II LLC                          |
+| fix.online     | premium   | $1,562.50 | —             | medium         | low    | 3      | name.com                                            |
+| oflate.online  | available | $2.99     | —             | medium         | low    | 7      | name.com                                            |
+| syria.online   | resell    | —         | —             | medium         | high   | 5      | Dynadot LLC                                         |
+| MMR.online     | premium   | $312.50   | —             | high           | low    | 3      | name.com                                            |
+| carcoat.online | available | $2.99     | $38.50        | high           | low    | 8      | namesilo                                            |
+| boldly.online  | resell    | —         | —             | medium         | high   | 6      | Namecheap                                           |
+| won.online     | premium   | $312.50   | —             | high           | low    | 3      | name.com                                            |
+| fallfor.online | available | $2.99     | $38.50        | medium         | low    | 8      | namesilo                                            |
+| capable.online | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                                    |
+| dogs.online    | premium   | $1,562.50 | —             | high           | low    | 4      | name.com                                            |
+| leaveon.online | available | $2.99     | —             | high           | low    | 8      | name.com                                            |
+| oakleaf.online | resell    | —         | —             | medium         | medium | 7      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 67,729 live domains                        |
+| 1,000-row public sample | 67,731 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is centered on one-word .online domains, which makes comparison straightforward: the main variables are word quality, price, and avoidable risk. Strong entries tend to be clean dictionary words with broad commercial use, such as persuasive.online, bar.online, sky.online, or massage.online. Weaker entries are often misspellings, narrow references, or words with limited resale depth, such as calender.online or dogsick.online. When comparing these domains, focus first on whether the word is instantly understood, easy to spell aloud, and credible on a .online ending. Then weigh the ask against how flexible the term is for branding, search intent, and future resale.
+This set covers one-word .ONLINE domain names, from single-word picks like half.online to compact phrase-style strings such as gowiththeflow.online and spacetravel.online. Across 67,731 names, the median ask sits at $908.17, giving a practical price benchmark for the extension. Investors can use this figure to gauge deal quality across .ONLINE, while founders can weigh cost against brandability and memorability when narrowing a shortlist. Because the list spans everyday words, playful phrases, and niche terms, evaluating spelling, length, and trademark risk matters as much as price when comparing individual names.
 
-- Clean dictionary words usually carry broader buyer appeal
-- Misspellings can lower trust and resale confidence
-- Generic terms like bar.online are easier to position
-- Check whether the ask fits the word's commercial range
+- 67,731 one-word .ONLINE domain names in this selection
+- Median ask across the set: $908.17
+- Mix of short brandable names and phrase-style .ONLINE strings
+- Compare price, renewal, and brandability before you choose
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONLINE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONLINE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
