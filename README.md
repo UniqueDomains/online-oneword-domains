@@ -1,10 +1,10 @@
-# Available .ONLINE One-Word Domains (67,787)
+# Available .ONLINE One-Word Domains (68,367)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-67%2C787%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-68%2C367%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .online one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **67,787 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **68,367 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 67,787 domains · **Median ask:** $805.53 · **High-demand under $2,500:** 270
+**Public extract:** 1,000 rows · **Live catalog:** 68,367 domains · **Median ask:** $701.62 · **High-demand under $2,500:** 270
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/tld/online`
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | lying.online   | available | $2.99     | —             | high           | low    | 5      | name.com                                            |
 | cloud.online   | resell    | $718,750  | $46.99        | high           | medium | 5      | Namify Domains Inc                                  |
 | fan.online     | premium   | $1,562.50 | —             | high           | low    | 3      | name.com                                            |
-| goape.online   | available | $0.98     | $34.98        | high           | low    | 6      | namecheap                                           |
+| azonic.online  | available | $0.98     | $34.98        | low            | low    | 6      | namecheap                                           |
 | cited.online   | resell    | —         | —             | medium         | high   | 5      | Hosting Concepts B.V. d/b/a Registrar.eu            |
 | fee.online     | premium   | $781.25   | —             | high           | low    | 3      | name.com                                            |
-| accurst.online | available | $0.98     | $34.98        | low            | low    | 7      | namecheap                                           |
+| bawdry.online  | available | $0.98     | $34.98        | low            | low    | 6      | namecheap                                           |
 | macro.online   | resell    | —         | —             | high           | low    | 5      | Squarespace Domains II LLC                          |
 | fix.online     | premium   | $1,562.50 | —             | medium         | low    | 3      | name.com                                            |
-| advised.online | available | $0.98     | $34.98        | low            | low    | 7      | namecheap                                           |
+| canted.online  | available | $0.98     | $34.98        | low            | low    | 6      | namecheap                                           |
 | syria.online   | resell    | —         | —             | medium         | high   | 5      | Dynadot LLC                                         |
 | liv.online     | premium   | $312.50   | $1,250        | medium         | low    | 3      | name.com                                            |
-| agnatic.online | available | $0.98     | $34.98        | low            | low    | 7      | namecheap                                           |
+| goape.online   | available | $0.98     | $34.98        | high           | low    | 6      | namecheap                                           |
 | boldly.online  | resell    | —         | —             | medium         | high   | 6      | Namecheap                                           |
 | MMR.online     | premium   | $312.50   | —             | high           | low    | 3      | name.com                                            |
-| airlike.online | available | $0.98     | $34.98        | low            | low    | 7      | namecheap                                           |
+| truant.online  | available | $0.98     | $34.98        | medium         | low    | 6      | namecheap                                           |
 | capable.online | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                                    |
 | won.online     | premium   | $312.50   | —             | high           | low    | 3      | name.com                                            |
-| gelpen.online  | available | $2.99     | $38.50        | high           | low    | 7      | namesilo                                            |
+| accurst.online | available | $0.98     | $34.98        | low            | low    | 7      | namecheap                                           |
 | oakleaf.online | resell    | —         | —             | medium         | medium | 7      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 67,787 live domains                        |
+| 1,000-row public sample | 68,367 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 270 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONLINE One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONLINE One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
