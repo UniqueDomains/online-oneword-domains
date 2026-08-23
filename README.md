@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .online one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 71,315 domains · **Median ask:** $532.70 · **High-demand under $2,500:** 266
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-23
 **Canonical page:** `https://unique.domains/domains/tld/online`
 **Best for:** founders, investors, studios
 
@@ -79,10 +79,10 @@ print(df.head())
 | goape.online   | available | $0.98     | $34.98        | high           | low    | 6      | namecheap                                           |
 | boldly.online  | resell    | —         | —             | medium         | high   | 6      | Namecheap                                           |
 | MMR.online     | premium   | $312.50   | —             | high           | low    | 3      | name.com                                            |
-| truant.online  | available | $0.98     | $34.98        | medium         | low    | 6      | namecheap                                           |
+| lactic.online  | available | $0.98     | $34.98        | low            | low    | 6      | namecheap                                           |
 | capable.online | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                                    |
 | won.online     | premium   | $312.50   | —             | high           | low    | 3      | name.com                                            |
-| accurst.online | available | $0.98     | $34.98        | low            | low    | 7      | namecheap                                           |
+| truant.online  | available | $0.98     | $34.98        | medium         | low    | 6      | namecheap                                           |
 | oakleaf.online | resell    | —         | —             | medium         | medium | 7      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONLINE One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONLINE One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
