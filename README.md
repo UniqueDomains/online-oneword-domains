@@ -1,10 +1,10 @@
-# Available .ONLINE One-Word Domains (44,947)
+# Available .ONLINE One-Word Domains (45,569)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-44%2C947%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-45%2C569%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .online one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **44,947 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **45,569 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 44,947 domains · **Median ask:** $1,069.38 · **High-demand under $2,500:** 853
+**Public extract:** 1,000 rows · **Live catalog:** 45,569 domains · **Median ask:** $1,065.39 · **High-demand under $2,500:** 858
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/online`
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | orad.online   | available | $0.98     | $34.98        | medium         | low    | 4      | namecheap                      |
 | intend.online | resell    | $1,092.50 | $46.99        | high           | low    | 6      | GoDaddy.com, LLC               |
 | abb.online    | premium   | $312.50   | $1,250        | high           | medium | 3      | name.com                       |
-| anjou.online  | available | $2.99     | $38.50        | high           | low    | 5      | namesilo                       |
+| riaa.online   | available | $2.99     | $38.50        | high           | low    | 4      | namesilo                       |
 | rarest.online | resell    | $2.99     | —             | high           | low    | 6      | Dynadot Inc                    |
+| aro.online    | premium   | $1,293.95 | $5,175.20     | high           | low    | 3      | spaceship                      |
+| anjou.online  | available | $2.99     | $38.50        | high           | low    | 5      | namesilo                       |
+| abort.online  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC               |
 | ava.online    | premium   | $1,562.50 | —             | high           | medium | 3      | name.com                       |
 | argun.online  | available | $2.99     | $38.50        | high           | low    | 5      | namesilo                       |
-| abort.online  | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC               |
-| dam.online    | premium   | $3,450    | $3,450        | high           | low    | 3      | namesilo                       |
-| prole.online  | available | $0.98     | $34.98        | high           | low    | 5      | namecheap                      |
 | audit.online  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                |
+| dam.online    | premium   | $3,450    | $3,450        | high           | low    | 3      | namesilo                       |
+| pepys.online  | available | $1.18     | $15.28        | high           | low    | 5      | spaceship                      |
+| baboon.online | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC               |
+| eas.online    | premium   | $1,000.20 | —             | high           | low    | 3      | unstoppable                    |
+| prole.online  | available | $0.98     | $34.98        | high           | low    | 5      | namecheap                      |
+| config.online | resell    | —         | —             | high           | high   | 6      | Xin Net Technology Corporation |
 | erp.online    | premium   | $647.08   | $2,587.70     | high           | medium | 3      | spaceship                      |
 | skint.online  | available | $0.98     | $34.98        | medium         | low    | 5      | namecheap                      |
-| baboon.online | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC               |
-| gaa.online    | premium   | $647.08   | $2,587.70     | high           | low    | 3      | spaceship                      |
-| typic.online  | available | $0.98     | $34.98        | high           | low    | 5      | namecheap                      |
-| config.online | resell    | —         | —             | high           | high   | 6      | Xin Net Technology Corporation |
-| gas.online    | premium   | $3,450    | $3,450        | high           | low    | 3      | namesilo                       |
-| vexer.online  | available | $0.98     | $34.98        | medium         | low    | 5      | namecheap                      |
 | motion.online | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 44,947 live domains                        |
+| 1,000-row public sample | 45,569 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 853 high-demand names under $2,500         |
+| Basic exported fields   | 858 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ONLINE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ONLINE One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
